@@ -1,2 +1,2 @@
-# Project-Algorithm-Design
-An Algorithm to detect collision between two rectangles and when they collide they change their colours
+# p5.play-boilerplate
+Boiler plate for p5.play
